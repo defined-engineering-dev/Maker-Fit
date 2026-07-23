@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m38.691 53.945 22.773 37.812 1.1697-0.7002-22.877-38.791-1.4719 0.87516z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m38.201 91.019 23.125-38.621 1.641 0.81099-23.154 38.858-1.641-0.89118z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m28.997 73.013 44.734-0.04989 0.07649-1.8101-46.393 0.1304-0.15668 1.8502z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m70.004 84.13-39.971-22.455 0.97556-1.6632 40.131 22.67-0.89538 1.583z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m46.221 59.723 7.6864 28.136 1.8929-0.53158-8.4055-30.906-1.933 0.61177z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m45.87 85.636 8.0072-29.159 1.8958 0.43685-8.3744 30.907-2.0161-0.63731z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m30.473 82.16 39.7-22.254 1.0696 1.8552-40.314 22.439-0.9493-1.6547z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m39.463 81.448 22.082-21.312 1.471 1.2335-23.453 22.806-1.3507-1.434z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m62.736 82.49-23.225-22.365-1.3975 1.351 23.554 22.841 1.3938-1.4664z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m34.261 75.482 32.154-8.4492 0.41193 1.9099-32.29 8.3326-0.25156-1.7495z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m34.822 67.214 32.163 8.0874-0.46086 1.8696-32.234-8.2261 0.46086-1.7493z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m56.417 72.028a6.2985 6.3435 0 0 1-6.2095 6.3429 6.2985 6.3435 0 0 1-6.385-6.1636 6.2985 6.3435 0 0 1 6.0291-6.5171 6.2985 6.3435 0 0 1 6.5554 5.9795m-6.9183-68.161h2.3395v90.879h-2.3395z"/>
+</vector>

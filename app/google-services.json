@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624198050750",
+    "project_id": "makerfit-6898e",
+    "storage_bucket": "makerfit-6898e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624198050750:android:1362df642dd0642ec4cfef",
+        "android_client_info": {
+          "package_name": "com.definedengineering.makerfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp-6R_6gE5v3m4Ia0qo0r3syb1TSAGYQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
