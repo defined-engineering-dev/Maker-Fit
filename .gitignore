@@ -7,6 +7,7 @@
 *.p12
 *.pem
 *.der
+google-services.json
 
 # Local environment configs (contains local SDK paths, API keys, etc.)
 local.properties
@@ -51,3 +52,10 @@ captures/
 Thumbs.db
 ehthumbs.db
 desktop.ini
+
+# =========================================================================
+# 5. Individual temporary text/log files
+# =========================================================================
+*_error.txt
+*.log
+temp_*.txt
