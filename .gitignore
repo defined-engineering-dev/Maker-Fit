@@ -51,3 +51,8 @@ captures/
 Thumbs.db
 ehthumbs.db
 desktop.ini
+
+# =========================================================================
+# 5. Individual temporary text/log files
+# =========================================================================
+build_error.txt
