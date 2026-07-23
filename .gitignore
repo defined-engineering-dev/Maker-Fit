@@ -7,6 +7,7 @@
 *.p12
 *.pem
 *.der
+google-services.json
 
 # Local environment configs (contains local SDK paths, API keys, etc.)
 local.properties
