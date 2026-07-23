@@ -1,34 +1,53 @@
-# Gradle files
-.gradle/
-build/
-
-# Local configuration file (sdk path, etc)
-local.properties
-
-# Log/OS Files
-*.log
-
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.aab
-*.apk
-output-metadata.json
-
-# IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
-
-# Keystore files
+# =========================================================================
+# 1. CRITICAL SECRETS & KEYS (NEVER COMMIT THESE)
+# =========================================================================
+# Release Keystores & Digital Certificates
 *.jks
 *.keystore
+*.p12
+*.pem
+*.der
 
-# Google Services (e.g. APIs or Firebase)
-google-services.json
+# Local environment configs (contains local SDK paths, API keys, etc.)
+local.properties
 
-# Android Profiling
-*.hprof
+# Firebase Configuration (Recommended if making repo Public)
+# google-services.json
+
+# =========================================================================
+# 2. BUILD OUTPUTS & TEMPORARY FILES
+# =========================================================================
+build/
+app/build/
+bin/
+gen/
+out/
+
+# Compiled Binaries & Packages
+*.apk
+*.aab
+*.aar
+*.ap_
+*.dex
+*.class
+
+# C/C++ Native Build Artifacts (if applicable)
+.externalNativeBuild/
+.cxx/
+
+# =========================================================================
+# 3. ANDROID STUDIO & IDE CONFIGURATIONS
+# =========================================================================
+.gradle/
+.idea/
+*.iml
+.navigation/
+captures/
+
+# =========================================================================
+# 4. OS GENERATED FILES
+# =========================================================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
